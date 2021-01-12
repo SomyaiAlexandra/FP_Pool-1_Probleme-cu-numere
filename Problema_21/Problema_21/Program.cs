@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problema_21
 {
+    //Ghiciti un numar intre 1 si 1024 prin intrebari de forma "numarul este mai mare sau egal decat x?". 
     class Program
     {
             static Random rnd = new Random();
